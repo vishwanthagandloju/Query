@@ -1,8 +1,12 @@
 {
   "packageDirectories": [
     {
-      "path": "force-app",
+      "path": "src-temp",
       "default": true
+    },
+    {
+      "path": "src",
+      "default": false
     }
   ],
   "name": "ProjectSpace",
